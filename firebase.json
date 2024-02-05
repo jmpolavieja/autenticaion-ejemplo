@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "autenticaion-ejemplo",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ejercicio-csi2-2022": {
+      "hosting": {
+        "autenticaion-ejemplo": [
+          "autenticacionv7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ejercicio-csi2-2022"
+  }
+}
